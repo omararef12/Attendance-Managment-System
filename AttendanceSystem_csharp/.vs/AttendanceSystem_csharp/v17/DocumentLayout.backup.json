@@ -1,0 +1,226 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C#Projects\\AttendanceSystem_csharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6EAD74-6932-463A-9815-0B959617083E}|AttendanceSystem_csharp\\AttendanceSystem_csharp.csproj|e:\\c#projects\\attendancesystem_csharp\\attendancesystem_csharp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B6EAD74-6932-463A-9815-0B959617083E}|AttendanceSystem_csharp\\AttendanceSystem_csharp.csproj|solutionrelative:attendancesystem_csharp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6EAD74-6932-463A-9815-0B959617083E}|AttendanceSystem_csharp\\AttendanceSystem_csharp.csproj|E:\\C#Projects\\AttendanceSystem_csharp\\attendancesystem_csharp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B6EAD74-6932-463A-9815-0B959617083E}|AttendanceSystem_csharp\\AttendanceSystem_csharp.csproj|solutionrelative:attendancesystem_csharp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6EAD74-6932-463A-9815-0B959617083E}|AttendanceSystem_csharp\\AttendanceSystem_csharp.csproj|E:\\C#Projects\\AttendanceSystem_csharp\\attendancesystem_csharp\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B6EAD74-6932-463A-9815-0B959617083E}|AttendanceSystem_csharp\\AttendanceSystem_csharp.csproj|solutionrelative:attendancesystem_csharp\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6EAD74-6932-463A-9815-0B959617083E}|AttendanceSystem_csharp\\AttendanceSystem_csharp.csproj|E:\\C#Projects\\AttendanceSystem_csharp\\attendancesystem_csharp\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B6EAD74-6932-463A-9815-0B959617083E}|AttendanceSystem_csharp\\AttendanceSystem_csharp.csproj|solutionrelative:attendancesystem_csharp\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6EAD74-6932-463A-9815-0B959617083E}|AttendanceSystem_csharp\\AttendanceSystem_csharp.csproj|E:\\C#Projects\\AttendanceSystem_csharp\\attendancesystem_csharp\\createsessionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B6EAD74-6932-463A-9815-0B959617083E}|AttendanceSystem_csharp\\AttendanceSystem_csharp.csproj|solutionrelative:attendancesystem_csharp\\createsessionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6EAD74-6932-463A-9815-0B959617083E}|AttendanceSystem_csharp\\AttendanceSystem_csharp.csproj|E:\\C#Projects\\AttendanceSystem_csharp\\attendancesystem_csharp\\createsessionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B6EAD74-6932-463A-9815-0B959617083E}|AttendanceSystem_csharp\\AttendanceSystem_csharp.csproj|solutionrelative:attendancesystem_csharp\\createsessionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6EAD74-6932-463A-9815-0B959617083E}|AttendanceSystem_csharp\\AttendanceSystem_csharp.csproj|E:\\C#Projects\\AttendanceSystem_csharp\\attendancesystem_csharp\\sessionsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B6EAD74-6932-463A-9815-0B959617083E}|AttendanceSystem_csharp\\AttendanceSystem_csharp.csproj|solutionrelative:attendancesystem_csharp\\sessionsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6EAD74-6932-463A-9815-0B959617083E}|AttendanceSystem_csharp\\AttendanceSystem_csharp.csproj|E:\\C#Projects\\AttendanceSystem_csharp\\attendancesystem_csharp\\sessionsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B6EAD74-6932-463A-9815-0B959617083E}|AttendanceSystem_csharp\\AttendanceSystem_csharp.csproj|solutionrelative:attendancesystem_csharp\\sessionsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6EAD74-6932-463A-9815-0B959617083E}|AttendanceSystem_csharp\\AttendanceSystem_csharp.csproj|E:\\C#Projects\\AttendanceSystem_csharp\\attendancesystem_csharp\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B6EAD74-6932-463A-9815-0B959617083E}|AttendanceSystem_csharp\\AttendanceSystem_csharp.csproj|solutionrelative:attendancesystem_csharp\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6EAD74-6932-463A-9815-0B959617083E}|AttendanceSystem_csharp\\AttendanceSystem_csharp.csproj|E:\\C#Projects\\AttendanceSystem_csharp\\attendancesystem_csharp\\attendanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B6EAD74-6932-463A-9815-0B959617083E}|AttendanceSystem_csharp\\AttendanceSystem_csharp.csproj|solutionrelative:attendancesystem_csharp\\attendanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6EAD74-6932-463A-9815-0B959617083E}|AttendanceSystem_csharp\\AttendanceSystem_csharp.csproj|E:\\C#Projects\\AttendanceSystem_csharp\\attendancesystem_csharp\\attendanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B6EAD74-6932-463A-9815-0B959617083E}|AttendanceSystem_csharp\\AttendanceSystem_csharp.csproj|solutionrelative:attendancesystem_csharp\\attendanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6EAD74-6932-463A-9815-0B959617083E}|AttendanceSystem_csharp\\AttendanceSystem_csharp.csproj|E:\\C#Projects\\AttendanceSystem_csharp\\attendancesystem_csharp\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B6EAD74-6932-463A-9815-0B959617083E}|AttendanceSystem_csharp\\AttendanceSystem_csharp.csproj|solutionrelative:attendancesystem_csharp\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6EAD74-6932-463A-9815-0B959617083E}|AttendanceSystem_csharp\\AttendanceSystem_csharp.csproj|E:\\C#Projects\\AttendanceSystem_csharp\\attendancesystem_csharp\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B6EAD74-6932-463A-9815-0B959617083E}|AttendanceSystem_csharp\\AttendanceSystem_csharp.csproj|solutionrelative:attendancesystem_csharp\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DB.cs",
+              "DocumentMoniker": "E:\\C#Projects\\AttendanceSystem_csharp\\AttendanceSystem_csharp\\DB.cs",
+              "RelativeDocumentMoniker": "AttendanceSystem_csharp\\DB.cs",
+              "ToolTip": "E:\\C#Projects\\AttendanceSystem_csharp\\AttendanceSystem_csharp\\DB.cs",
+              "RelativeToolTip": "AttendanceSystem_csharp\\DB.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAA1wDUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T19:30:45.38Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateSessionForm.cs",
+              "DocumentMoniker": "E:\\C#Projects\\AttendanceSystem_csharp\\AttendanceSystem_csharp\\CreateSessionForm.cs",
+              "RelativeDocumentMoniker": "AttendanceSystem_csharp\\CreateSessionForm.cs",
+              "ToolTip": "E:\\C#Projects\\AttendanceSystem_csharp\\AttendanceSystem_csharp\\CreateSessionForm.cs",
+              "RelativeToolTip": "AttendanceSystem_csharp\\CreateSessionForm.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAASwH8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T18:13:26.947Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SettingsForm.cs",
+              "DocumentMoniker": "E:\\C#Projects\\AttendanceSystem_csharp\\AttendanceSystem_csharp\\SettingsForm.cs",
+              "RelativeDocumentMoniker": "AttendanceSystem_csharp\\SettingsForm.cs",
+              "ToolTip": "E:\\C#Projects\\AttendanceSystem_csharp\\AttendanceSystem_csharp\\SettingsForm.cs",
+              "RelativeToolTip": "AttendanceSystem_csharp\\SettingsForm.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAiwCkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T18:40:51.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SettingsForm.cs [Design]",
+              "DocumentMoniker": "E:\\C#Projects\\AttendanceSystem_csharp\\AttendanceSystem_csharp\\SettingsForm.cs",
+              "RelativeDocumentMoniker": "AttendanceSystem_csharp\\SettingsForm.cs",
+              "ToolTip": "E:\\C#Projects\\AttendanceSystem_csharp\\AttendanceSystem_csharp\\SettingsForm.cs [Design]",
+              "RelativeToolTip": "AttendanceSystem_csharp\\SettingsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T18:20:35.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReportsForm.cs",
+              "DocumentMoniker": "E:\\C#Projects\\AttendanceSystem_csharp\\AttendanceSystem_csharp\\ReportsForm.cs",
+              "RelativeDocumentMoniker": "AttendanceSystem_csharp\\ReportsForm.cs",
+              "ToolTip": "E:\\C#Projects\\AttendanceSystem_csharp\\AttendanceSystem_csharp\\ReportsForm.cs",
+              "RelativeToolTip": "AttendanceSystem_csharp\\ReportsForm.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAuwIMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T17:16:58.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReportsForm.cs [Design]",
+              "DocumentMoniker": "E:\\C#Projects\\AttendanceSystem_csharp\\AttendanceSystem_csharp\\ReportsForm.cs",
+              "RelativeDocumentMoniker": "AttendanceSystem_csharp\\ReportsForm.cs",
+              "ToolTip": "E:\\C#Projects\\AttendanceSystem_csharp\\AttendanceSystem_csharp\\ReportsForm.cs [Design]",
+              "RelativeToolTip": "AttendanceSystem_csharp\\ReportsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T17:11:21.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\C#Projects\\AttendanceSystem_csharp\\AttendanceSystem_csharp\\Form1.cs",
+              "RelativeDocumentMoniker": "AttendanceSystem_csharp\\Form1.cs",
+              "ToolTip": "E:\\C#Projects\\AttendanceSystem_csharp\\AttendanceSystem_csharp\\Form1.cs",
+              "RelativeToolTip": "AttendanceSystem_csharp\\Form1.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T18:23:17.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AttendanceForm.cs [Design]",
+              "DocumentMoniker": "E:\\C#Projects\\AttendanceSystem_csharp\\AttendanceSystem_csharp\\AttendanceForm.cs",
+              "RelativeDocumentMoniker": "AttendanceSystem_csharp\\AttendanceForm.cs",
+              "ToolTip": "E:\\C#Projects\\AttendanceSystem_csharp\\AttendanceSystem_csharp\\AttendanceForm.cs [Design]",
+              "RelativeToolTip": "AttendanceSystem_csharp\\AttendanceForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T20:40:12.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateSessionForm.cs [Design]",
+              "DocumentMoniker": "E:\\C#Projects\\AttendanceSystem_csharp\\AttendanceSystem_csharp\\CreateSessionForm.cs",
+              "RelativeDocumentMoniker": "AttendanceSystem_csharp\\CreateSessionForm.cs",
+              "ToolTip": "E:\\C#Projects\\AttendanceSystem_csharp\\AttendanceSystem_csharp\\CreateSessionForm.cs [Design]",
+              "RelativeToolTip": "AttendanceSystem_csharp\\CreateSessionForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T18:00:51.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AttendanceForm.cs",
+              "DocumentMoniker": "E:\\C#Projects\\AttendanceSystem_csharp\\AttendanceSystem_csharp\\AttendanceForm.cs",
+              "RelativeDocumentMoniker": "AttendanceSystem_csharp\\AttendanceForm.cs",
+              "ToolTip": "E:\\C#Projects\\AttendanceSystem_csharp\\AttendanceSystem_csharp\\AttendanceForm.cs",
+              "RelativeToolTip": "AttendanceSystem_csharp\\AttendanceForm.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAD4v5cAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T16:41:03.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SessionsForm.cs [Design]",
+              "DocumentMoniker": "E:\\C#Projects\\AttendanceSystem_csharp\\AttendanceSystem_csharp\\SessionsForm.cs",
+              "RelativeDocumentMoniker": "AttendanceSystem_csharp\\SessionsForm.cs",
+              "ToolTip": "E:\\C#Projects\\AttendanceSystem_csharp\\AttendanceSystem_csharp\\SessionsForm.cs [Design]",
+              "RelativeToolTip": "AttendanceSystem_csharp\\SessionsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T14:39:33.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SessionsForm.cs",
+              "DocumentMoniker": "E:\\C#Projects\\AttendanceSystem_csharp\\AttendanceSystem_csharp\\SessionsForm.cs",
+              "RelativeDocumentMoniker": "AttendanceSystem_csharp\\SessionsForm.cs",
+              "ToolTip": "E:\\C#Projects\\AttendanceSystem_csharp\\AttendanceSystem_csharp\\SessionsForm.cs",
+              "RelativeToolTip": "AttendanceSystem_csharp\\SessionsForm.cs",
+              "ViewState": "AgIAAMUAAAAAAAAAAAAwwNIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T19:41:48.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\C#Projects\\AttendanceSystem_csharp\\AttendanceSystem_csharp\\Form1.cs",
+              "RelativeDocumentMoniker": "AttendanceSystem_csharp\\Form1.cs",
+              "ToolTip": "E:\\C#Projects\\AttendanceSystem_csharp\\AttendanceSystem_csharp\\Form1.cs [Design]",
+              "RelativeToolTip": "AttendanceSystem_csharp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T17:51:58.333Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
